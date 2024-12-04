@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kor", "2024-25-12c_2_Teszt\Kor.csproj", "{4E02E536-ABEC-43D2-8EA6-C5A89C66283C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kor_UTest", "Kor_UTest\Kor_UTest.csproj", "{ACD4FAD0-7766-419C-95E5-402DA8B17450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E02E536-ABEC-43D2-8EA6-C5A89C66283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E02E536-ABEC-43D2-8EA6-C5A89C66283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E02E536-ABEC-43D2-8EA6-C5A89C66283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E02E536-ABEC-43D2-8EA6-C5A89C66283C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB21A64-8453-42CD-AB93-DF962FDD059C}
+	EndGlobalSection
+EndGlobal
