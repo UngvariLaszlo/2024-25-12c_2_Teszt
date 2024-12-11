@@ -29,7 +29,7 @@ namespace KöHenger_UnitTest
             // Arrange - Feltételek beállítása
             double sugár = 5;
             Kör kör = new Kör(sugár);
-            double vártEredm = 78.5398;
+            double vártEredm = 78.54;
             
 
             // Act - Végrehajtás
@@ -38,7 +38,7 @@ namespace KöHenger_UnitTest
             
 
             // Assert - Kiértékelés
-            Assert.AreEqual(vártEredm, kapottEredm,0.01);
+            Assert.AreEqual(vártEredm, kapottEredm);
 
         }
     }
