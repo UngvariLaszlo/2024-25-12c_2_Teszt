@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kor", "2024-25-12c_2_Teszt\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kor_UTest", "Kor_UTest\Kor_UTest.csproj", "{ACD4FAD0-7766-419C-95E5-402DA8B17450}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvaltOOP", "AtvaltOOP\AtvaltOOP.csproj", "{F0A87A46-378F-48D6-AA80-135FF9059732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvaltOOP_test", "AtvaltOOP_test\AtvaltOOP_test.csproj", "{D40DF029-0A62-42B8-A00A-1492B4EBA194}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACD4FAD0-7766-419C-95E5-402DA8B17450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A87A46-378F-48D6-AA80-135FF9059732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A87A46-378F-48D6-AA80-135FF9059732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A87A46-378F-48D6-AA80-135FF9059732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A87A46-378F-48D6-AA80-135FF9059732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40DF029-0A62-42B8-A00A-1492B4EBA194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40DF029-0A62-42B8-A00A-1492B4EBA194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40DF029-0A62-42B8-A00A-1492B4EBA194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40DF029-0A62-42B8-A00A-1492B4EBA194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
