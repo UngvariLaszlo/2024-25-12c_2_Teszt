@@ -62,6 +62,8 @@ namespace Atvalt_UnitTest
             kapottEredm = atvalt.isBinaris(szam);
 
             Assert.AreEqual(kapottEredm, vartEredm);
+
+
         }
     }
 }
