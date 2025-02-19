@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontHatOOP", "ConsoleApp1\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontHatOOP_Test", "PontHatOOP_Test\PontHatOOP_Test.csproj", "{2D372879-39D4-4F83-8407-DB854DCA4F1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorTDD", "KorTDD\KorTDD.csproj", "{C34DFCE7-EB1D-487D-9F3F-4B37D7E57142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorTDD_Test", "KorTDD_Test\KorTDD_Test.csproj", "{6B84CE2D-5115-4ED2-9D04-4EA50522552A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{2D372879-39D4-4F83-8407-DB854DCA4F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D372879-39D4-4F83-8407-DB854DCA4F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D372879-39D4-4F83-8407-DB854DCA4F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34DFCE7-EB1D-487D-9F3F-4B37D7E57142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34DFCE7-EB1D-487D-9F3F-4B37D7E57142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34DFCE7-EB1D-487D-9F3F-4B37D7E57142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34DFCE7-EB1D-487D-9F3F-4B37D7E57142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B84CE2D-5115-4ED2-9D04-4EA50522552A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B84CE2D-5115-4ED2-9D04-4EA50522552A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B84CE2D-5115-4ED2-9D04-4EA50522552A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B84CE2D-5115-4ED2-9D04-4EA50522552A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
